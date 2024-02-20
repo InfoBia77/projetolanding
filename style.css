@@ -1,0 +1,123 @@
+
+*{
+    margin: 0px;
+    font-family: 'inter';
+    
+}
+#tituloo {
+    margin-left: 60px ;
+    margin-top: 72px ;
+    width: 1024px;
+    color: #FFF;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 600;
+line-height: 72px; 
+letter-spacing: -1.5px;
+
+}
+
+#paragrafoo {
+    width: 1024px;
+    color: #FFF;
+    margin-left: 72px ;
+    margin-top: 15px ;
+   font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+    padding-bottom: 100px;
+   
+    
+}
+
+#retangulonove{
+    background-image: url(imagens/retang.svg);
+    color: #303030;
+    padding-top: 100px;
+   
+}
+
+#retanguloquatro{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 50px;
+    
+}
+
+.bolder{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.text{
+    margin-left: 60px;
+}
+
+
+#sessaofoto {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+#imagemcentro {
+    Width:402px ;
+Height:  400px;
+Top:781px ;
+Left:876px ;
+Radius:30px ;
+float: right;
+margin: 50px 25px 50px 100px;
+}
+#titulo {
+margin: 200px 25px 50px 100px;
+text-align: center;
+float: low;
+}
+
+#texto {
+margin: 50px 25px 50px 100px;
+text-align: center;
+  }
+
+#formulario{
+    background-image: url(imagens/retang.svg);
+    text-align: center;
+}
+
+
+#textoformulario{
+    color: white;
+    font-size: 25px;
+
+    
+}
+  
+    input{
+        Width: 300px;
+        Height: 35px; 
+        margin: 10px;
+        border: 0px;
+        border-radius: 5px;
+        padding-left: 15px;
+
+    }
+
+    button{
+        Width: 200px;
+        Height: 35px; 
+        margin: 10px;
+        border: 0px;
+        border-radius: 5px;
+        padding-left: 15px;
+    background-color: #C07212;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+
+    }
